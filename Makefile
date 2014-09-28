@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -O2 -Wall -Wextra -std=c++11
+CXXFLAGS = -O2 -Wall -Wextra
 
 TARGET := $(notdir $(CURDIR))
 
